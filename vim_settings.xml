@@ -1,0 +1,121 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/test.py" timestamp="1578774715678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wycena_pilkarzy/main_set.py" timestamp="1585311073162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1573504374036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/karteczka.py" timestamp="1580505484146">
+        <mark key="[" line="0" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1578774910345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/odwr_tablicy_lewo.py" timestamp="1580584895638">
+        <mark key="[" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/zestawienie.py" timestamp="1578777352167">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/odwr_tablicy.py" timestamp="1580584815145">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/venv/odwr_karteczka.py" timestamp="1580496132744">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/Odwracanie_podciagu.py" timestamp="1579549714401">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/venv/Duze_litery_odwrotnie.py" timestamp="1580250609169">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/a_do_b_final.py" timestamp="1580595925021">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/zad_2/przyk_klaudii.py" timestamp="1572987081279">
+        <mark key="[" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/kroliki.py" timestamp="1580244188012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/zamiana_systemow.py" timestamp="1580551942594">
+        <mark key="[" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/zad_2/obliczenia.py" timestamp="1573577659949">
+        <mark key="[" line="75" column="3" />
+        <mark key="]" line="75" column="7" />
+        <mark key="^" line="75" column="7" />
+        <mark key="." line="75" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/.idea/analiza_fifa.py" timestamp="1585305549472">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/wybory.py" timestamp="1580596287055">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Zestawienie/A_do_B.py" timestamp="1580595772128">
+        <mark key="[" line="34" column="20" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2Uoc3RhcnQsIGVuZCk6CiAgICBpZiBpID49IHN0YXJ0IGFuZCBpIDw9IGVuZDoKICAgICAgICBwcmludCgiQklOR08iKQogICAgZWxpZiBpID4gZW5kOgogICAgICAgIHByaW50KGkpCiAgICAgICAgaSA9IGkraQogICAgICAgIAogICAg</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>int(,end=</text>
+      </register>
+      <register name="-" type="4">
+        <text>int(,end=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
