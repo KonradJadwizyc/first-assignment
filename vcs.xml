@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/KonradJadwizyc/first-assignment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KonradJadwizyc/Machine_learning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\konra\PycharmProjects" />
+    <option name="cloneParentDir" value="D:\UAM" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
